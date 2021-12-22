@@ -1,3 +1,13 @@
-> 1%
-last 2 versions
-not dead
+# babel es6转es5，考虑低版本ie浏览器用户，兼容处理
+# 兼容到1%用户使用的浏览器，只要这个浏览器有1%的用户使用，就要进行兼容
+#  > 1%
+# 兼容到最后的两个版本
+# last 2 versions
+# 没有dead 浏览器　
+# not dead
+Android >= 4.0
+IOS >= 8
+
+
+
+
